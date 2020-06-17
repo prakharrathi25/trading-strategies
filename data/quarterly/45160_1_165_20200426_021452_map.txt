@@ -1,0 +1,14 @@
+siqs_qsegbrk_cocode|Prowess company code|Code
+siqs_company_name|Prowess company name|Text
+siqs_qsegbrk_info_type|Information type|Text
+siqs_seg_date|Date|Date
+siqs_seg_name|Segment name|Text
+siqs_seg_type|Segment type|Text
+siqs_seg_months|Months|Mths
+siqs_seg_code|Segment code|Code
+siqs_product_name_mst|Product group name|Text
+siqs_seg_revenue|Segment-wise revenue|Rs. Million ; Non-annualised
+siqs_seg_pbit|Segment-wise PBIT|Rs. Million ; Non-annualised
+siqs_net_profit_seg|Segment-wise net profit|Rs. Million ; Non-annualised
+siqs_seg_cap_employed|Segment-wise capital employed|Rs. Million
+siqs_seg_tot_liab|Segment-wise liabilities|Rs. Million

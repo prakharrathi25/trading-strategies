@@ -1,0 +1,9 @@
+co_code|Prowess company code|Code
+company_name|Prowess company name|Text
+co_stkdate|Company Trading Date|Date
+bse_closing_price|BSE closing price|Indian Rupee
+bse_market_cap|BSE market capitalisation|Rs. Million
+bse_pb|BSE P/B|Times
+nse_closing_price|NSE closing price|Indian Rupee
+nse_market_cap|NSE market capitalisation|Rs. Million
+nse_pb|NSE P/B|Times
